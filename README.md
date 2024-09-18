@@ -9,6 +9,9 @@
 
 # Introduction to GitHub
 
+Hi There
+ I'm currently working with something cool!
+
 _Get started using GitHub in less than an hour._
 
 </header>
